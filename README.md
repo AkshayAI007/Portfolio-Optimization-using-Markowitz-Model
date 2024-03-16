@@ -1,4 +1,3 @@
-# Portfolio-Optimization-using-Markowitz-Model
 ![image](https://github.com/AkshayAI007/Portfolio-Optimization-using-Markowitz-Model/assets/110448324/c86a7919-9edd-4c0a-afe8-a3e4761660b3)
 A portfolio refers to a collection of financial assets such as stocks, bonds, commodities, real estate, and cash equivalents held by an individual or institution. The primary purpose of creating a portfolio is to achieve a balance between risk and return based on the investor's financial goals, risk tolerance, and investment horizon.
 
